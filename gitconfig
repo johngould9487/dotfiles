@@ -49,3 +49,5 @@
 [user]
 	email = johngould9487@gmail.com
 	name = John Gould
+[hub]
+	protocol = https
